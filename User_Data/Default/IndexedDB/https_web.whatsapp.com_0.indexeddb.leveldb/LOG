@@ -1,0 +1,7 @@
+2021/03/11-13:50:53.982 38b8 Reusing MANIFEST D:\phython\test\src\whatsapp_bulk\User_Data\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/03/11-13:50:53.982 38b8 Recovering log #59
+2021/03/11-13:50:53.985 38b8 Reusing old log D:\phython\test\src\whatsapp_bulk\User_Data\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000059.log 
+2021/03/11-13:50:54.777 1ea8 Compacting 1@1 + 1@2 files
+2021/03/11-13:50:55.163 1ea8 Generated table #62@1: 43206 keys, 1840421 bytes
+2021/03/11-13:50:55.164 1ea8 Compacted 1@1 + 1@2 files => 1840421 bytes
+2021/03/11-13:50:55.240 1ea8 compacted to: files[ 0 0 1 0 0 0 0 ]

@@ -1,0 +1,1 @@
+web: gunicorn whatsapp_Bulk.wsgi --log-file -
